@@ -1,12 +1,14 @@
-## °²×°»·¾³£º
+## å®‰è£…ç¯å¢ƒï¼š
 
-1¡¢½Å±¾Ê¹ÓÃseleniumÄ£¿é½øĞĞ±àĞ´£¬pip install selenium
-2¡¢Ê¹ÓÃĞèÒªÏß°²×°chrome¶ÔÓ¦°æ±¾µÄwebdriverÄÚºË£¬https://npm.taobao.org/mirrors/chromedriver¡¢https://registry.npmmirror.com/binary.html?path=chromedriver/
-3¡¢ÏÂÔØºó½«½âÑ¹µÄ¡°chromedriver.exe¡±·Åµ½chrome°²×°Ä¿Â¼ÏÂ£¬
+1ã€è„šæœ¬ä½¿ç”¨seleniumæ¨¡å—è¿›è¡Œç¼–å†™ï¼Œpip install selenium
+2ã€ä½¿ç”¨éœ€è¦çº¿å®‰è£…chromeå¯¹åº”ç‰ˆæœ¬çš„webdriverå†…æ ¸ï¼Œ
+https://npm.taobao.org/mirrors/chromedriverã€
+https://registry.npmmirror.com/binary.html?path=chromedriver/
+3ã€ä¸‹è½½åå°†è§£å‹çš„â€œchromedriver.exeâ€æ”¾åˆ°chromeå®‰è£…ç›®å½•ä¸‹
 
 
 
-## Ê¹ÓÃ·½·¨£º
+## ä½¿ç”¨æ–¹æ³•ï¼š
 
-1¡¢ÔÚ½Å±¾Í³¼ÆÄ¿Â¼´´½¨Ò»¸ö¡°ip.txt¡±£¬Ã¿¸öIPÒ»ĞĞ¡£
-2¡¢ÔËĞĞ½Å±¾»áÔÚÍ¬¼¶Ä¿Â¼Éú³ÉIP.xlsxµÄ½á¹ûÎÄ¼ş£¬´æ·ÅIPµØÖ·µÄ½âÎöÓòÃû
+1ã€åœ¨è„šæœ¬ç»Ÿè®¡ç›®å½•åˆ›å»ºä¸€ä¸ªâ€œip.txtâ€ï¼Œæ¯ä¸ªIPä¸€è¡Œã€‚
+2ã€è¿è¡Œè„šæœ¬ä¼šåœ¨åŒçº§ç›®å½•ç”ŸæˆIP.xlsxçš„ç»“æœæ–‡ä»¶ï¼Œå­˜æ”¾IPåœ°å€çš„è§£æåŸŸå
